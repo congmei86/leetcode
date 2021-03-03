@@ -1,7 +1,7 @@
 ## LeetCode刷题笔记
 
-### ==01-GeekBand算法原理与实践==
+### Ⅰ、[GeekBand算法原理与实践]()(01-GeekBand算法原理与实践)
 
-### ==02-LeetCode101==
+### Ⅱ、[LeetCode101](02-LeetCode101)
 
-### ==03-剑指Offer==
+### Ⅲ、[剑指Offer](03-剑指Offer)
