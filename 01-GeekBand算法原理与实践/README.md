@@ -13,18 +13,32 @@
 | [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) |  [C++](cpp/removeDuplicateNodes.cpp)  |
 | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) |      [C++](cpp/replaceSpace.cpp)      |
 | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |         [C++](cpp/merge.cpp)          |
-|                   Longest Common Substring                   | [C++](cpp/longestCommonSubstring.cpp) |
-|            Remove Duplicates from Sorted Array I             |    [C++](cpp/removeDuplicates.cpp)    |
-|                          Partition                           |     [C++](cpp/partitionArray.cpp)     |
-|                            Median                            |         [C++](cpp/median.cpp)         |
+|                 [Longest Common Substring]()                 | [C++](cpp/longestCommonSubstring.cpp) |
+|          [Remove Duplicates from Sorted Array I]()           |    [C++](cpp/removeDuplicates.cpp)    |
+|                        [Partition]()                         |     [C++](cpp/partitionArray.cpp)     |
+|                          [Median]()                          |         [C++](cpp/median.cpp)         |
 
 ## 2. 链表
 
-| Title | Solution |
-| :---: | :------: |
-|       |          |
-|       |          |
-|       |          |
+| Times |                            Title                             |             Solution             |
+| ----- | :----------------------------------------------------------: | :------------------------------: |
+| ##### | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [C++](cpp/deleteDuplicates.cpp)  |
+|       | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](cpp/deleteDuplicates2.cpp) |
+|       | [面试题 02.04. 分割链表](https://leetcode-cn.com/problems/partition-list-lcci/) |     [C++](cpp/partition.cpp)     |
+|       | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |     [C++](cpp/hasCycle.cpp)      |
+|       | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |    [C++](cpp/detectCycle.cpp)    |
+|       | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |    [C++](cpp/middleNode.cpp)     |
+|       | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) |   [C++](cpp/getKthFromEnd.cpp)   |
+|       | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) |    [C++](cpp/rotateRight.cpp)    |
+| ####  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) |    [C++](cpp/reverseList.cpp)    |
+| ####  | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) |     [C++](cpp/swapPairs.cpp)     |
+| ####  | [面试题 02.05. 链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/) |   [C++](cpp/addTwoNumbers.cpp)   |
+|       |                                                              |           [C++](cpp/)            |
+|       |                                                              |           [C++](cpp/)            |
+|       |                                                              |           [C++](cpp/)            |
+|       |                                                              |           [C++](cpp/)            |
+|       |                                                              |           [C++](cpp/)            |
+|       |                                                              |           [C++](cpp/)            |
 
 ## 3. Stack & Queue
 
