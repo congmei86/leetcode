@@ -78,14 +78,34 @@
 |   #   | [面试题 04.06. 后继者](https://leetcode-cn.com/problems/successor-lcci/) |   [C++](cpp/inorderSuccessor.cpp)    |
 |   #   | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](cpp/lowestCommonAncestor.cpp)  |
 |   #   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](cpp/lowestCommonAncestor2.cpp) |
+|       | [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) |      [C++](cpp/rangeSumBST.cpp)      |
+|       | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |      [C++](cpp/isSymmetric.cpp)      |
+|       | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) |      [C++](cpp/invertTree.cpp)       |
 
 ## 5. 查找和排序
 
-| Times | Title |  Solution   |
-| :---: | :---: | :---------: |
-|   #   |       | [C++](cpp/) |
-|   #   |       | [C++](cpp/) |
-|   #   |       | [C++](cpp/) |
+| Times |                            Title                             |            Solution             |
+| :---: | :----------------------------------------------------------: | :-----------------------------: |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                                                              |           [C++](cpp/)           |
+|   #   | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](cpp/findRepeatNumber.cpp) |
+|   #   | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |   [C++](cpp/intersection.cpp)   |
+|   #   | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |    [C++](cpp/intersect.cpp)     |
+|   #   | [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/) |    [C++](cpp/smallestK.cpp)     |
+|   #   | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |    [C++](cpp/KthLargest.cpp)    |
+|   #   | [面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) |    [C++](cpp/kthToLast.cpp)     |
+|   #   | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) |     [C++](cpp/thirdMax.cpp)     |
 
 ## 6. 动态规划和递归
 
