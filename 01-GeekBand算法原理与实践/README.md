@@ -106,6 +106,10 @@
 |   #   | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |    [C++](cpp/KthLargest.cpp)    |
 |   #   | [面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) |    [C++](cpp/kthToLast.cpp)     |
 |   #   | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) |     [C++](cpp/thirdMax.cpp)     |
+|       | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |     [C++](cpp/kClosest.cpp)     |
+|       | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |  [C++](cpp/findKthLargest.cpp)  |
+|       | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |   [C++](cpp/topKFrequent.cpp)   |
+|       | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |  [C++](cpp/topKFrequent2.cpp)   |
 
 ## 6. 动态规划和递归
 
