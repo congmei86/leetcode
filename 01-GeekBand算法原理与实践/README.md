@@ -86,19 +86,20 @@
 
 | Times |                            Title                             |            Solution             |
 | :---: | :----------------------------------------------------------: | :-----------------------------: |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
-|   #   |                                                              |           [C++](cpp/)           |
+|   #   |                           冒泡排序                           |  [C++](cpp/bubbleSortFlag.cpp)  |
+|   #   |                           选择排序                           |   [C++](cpp/select_sort.cpp)    |
+|   #   |                           插入排序                           |    [C++](cpp/insertSort.cpp)    |
+|   #   |                           快速排序                           |    [C++](cpp/quick_sort.cpp)    |
+|   #   |                            堆排序                            |     [C++](cpp/heapSort.cpp)     |
+|   #   |                           归并排序                           |    [C++](cpp/merge_sort.cpp)    |
+|   #   |                           希尔排序                           |    [C++](cpp/shellSort.cpp)     |
+|   #   |                           计数排序                           |    [C++](cpp/countSort.cpp)     |
+|   #   |                            桶排序                            |    [C++](cpp/bucketSort.cpp)    |
+|   #   |                           基数排序                           |    [C++](cpp/radixSort.cpp)     |
+|   #   |                           顺序查找                           | [C++](cpp/sequentialSearch.cpp) |
+|   #   |                           折半查找                           |  [C++](cpp/binary_search.cpp)   |
+|   #   |                           插值查找                           | [C++](cpp/insertionSearch.cpp)  |
+|   #   |                         斐波那契查找                         | [C++](cpp/fibonacciSearch.cpp)  |
 |   #   | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](cpp/findRepeatNumber.cpp) |
 |   #   | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |   [C++](cpp/intersection.cpp)   |
 |   #   | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |    [C++](cpp/intersect.cpp)     |
