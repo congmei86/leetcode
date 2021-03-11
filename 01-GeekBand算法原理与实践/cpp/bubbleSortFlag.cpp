@@ -15,18 +15,18 @@
 */
 void bubbleSortFlag(std::vector<int>& vec)
 {
-	int len = vec.size();
-	bool flag = false;
+    int len = vec.size();
+    bool flag = false;
 
-	for (int i{}; i < len - 1 && !flag; ++i) {
-		flag = true;
-		for (int j{}; j < len - 1 - i; ++j) {
-			if (vec[j] > vec[j + 1]) {
-				flag = false;
-				std::swap(vec[j], vec[j + 1]);
-			}
-		}
-	}
+    for (int i{}; i < len - 1 && !flag; ++i) {
+        flag = true;
+        for (int j{}; j < len - 1 - i; ++j) {
+            if (vec[j] > vec[j + 1]) {
+                flag = false;
+                std::swap(vec[j], vec[j + 1]);
+            }
+        }
+    }
 
-	return;
+    return;
 }

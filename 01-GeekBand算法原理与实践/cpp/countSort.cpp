@@ -24,20 +24,20 @@
 
 void countSort(std::vector<int>& vec)
 {
-	int min = *std::min_element(vec.begin(), vec.end());
-	int max = *std::max_element(vec.begin(), vec.end());
+    int min = *std::min_element(vec.begin(), vec.end());
+    int max = *std::max_element(vec.begin(), vec.end());
 
-	std::unordered_map<int, int> hashMap(max - min + 1);
-	for (int& elem : vec) {
-		hashMap[elem]++;
-	}
+    std::unordered_map<int, int> hashMap(max - min + 1);
+    for (int& elem : vec) {
+        hashMap[elem]++;
+    }
 
-	int k = 0;
-	for (int i = min; i <= max; ++i) {
-		while (hashMap[i]--) {
-			vec[k++] = i;
-		}
-	}
+    int k = 0;
+    for (int i = min; i <= max; ++i) {
+        while (hashMap[i]--) {
+            vec[k++] = i;
+        }
+    }
 
-	return;
+    return;
 }

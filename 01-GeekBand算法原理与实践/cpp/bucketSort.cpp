@@ -17,30 +17,30 @@
 *****************/
 
 /**************
-	数组版
+    数组版
 **************/
 
 template <typename T>
 void bucketSort(std::vector<T>& vec)
 {
-	if (vec.empty()) return;
+    if (vec.empty()) return;
 
-	T min = *std::min_element(vec.begin(), vec.end());
-	T max = *std::max_element(vec.begin(), vec.end());
-	int bucketNum = (max - min) / vec.size() + 1;
-	
-	vector<vector<T>> bucketArr(bucketNum);
-	for (T& elem : vec) {
-		int num = (elem - min) / vec.size();
-		bucketArr[num].push_back(elem);
-	}
+    T min = *std::min_element(vec.begin(), vec.end());
+    T max = *std::max_element(vec.begin(), vec.end());
+    int bucketNum = (max - min) / vec.size() + 1;
+    
+    vector<vector<T>> bucketArr(bucketNum);
+    for (T& elem : vec) {
+        int num = (elem - min) / vec.size();
+        bucketArr[num].push_back(elem);
+    }
 
-	auto iter = vec.begin();
-	for (auto it = bucketArr.begin(); it != bucketArr.end(); ++it) {
-		std::stable_sort((*it).begin(), (*it).end());
-		std::copy((*it).begin(), (*it).end(), iter);
-		std::advance(iter, (*it).size());
-	}
+    auto iter = vec.begin();
+    for (auto it = bucketArr.begin(); it != bucketArr.end(); ++it) {
+        std::stable_sort((*it).begin(), (*it).end());
+        std::copy((*it).begin(), (*it).end(), iter);
+        std::advance(iter, (*it).size());
+    }
 
-	return;
+    return;
 }

@@ -16,20 +16,20 @@
 template<typename T>
 void select_sort(std::vector<T>& vec)
 {
-	size_t len = vec.size();
-	size_t min;
+    size_t len = vec.size();
+    size_t min;
 
-	for (size_t i{}; i < len - 1; ++i) {
-		min = i;
-		for (size_t j = i + 1; j < len; j++) {
-			if (vec[j] < vec[min]) {
-				min = j;
-			}
-		}
-		if (i != min) {
-			std::swap(vec[i], vec[min]);
-		}
-	}
+    for (size_t i{}; i < len - 1; ++i) {
+        min = i;
+        for (size_t j = i + 1; j < len; j++) {
+            if (vec[j] < vec[min]) {
+                min = j;
+            }
+        }
+        if (i != min) {
+            std::swap(vec[i], vec[min]);
+        }
+    }
 
-	return;
+    return;
 }
