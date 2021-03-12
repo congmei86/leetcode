@@ -13,10 +13,10 @@
 | ##### | [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) |  [C++](cpp/removeDuplicateNodes.cpp)  |
 | ##### | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) |      [C++](cpp/replaceSpace.cpp)      |
 | ##### | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |         [C++](cpp/merge.cpp)          |
-| ##### |                 [Longest Common Substring]()                 | [C++](cpp/longestCommonSubstring.cpp) |
-| ##### |          [Remove Duplicates from Sorted Array I]()           |    [C++](cpp/removeDuplicates.cpp)    |
-| ##### |                        [Partition]()                         |     [C++](cpp/partitionArray.cpp)     |
-| ##### |                          [Median]()                          |         [C++](cpp/median.cpp)         |
+| ##### |                  [Longest Common Substring]                  | [C++](cpp/longestCommonSubstring.cpp) |
+| ##### |           [Remove Duplicates from Sorted Array I]            |    [C++](cpp/removeDuplicates.cpp)    |
+| ##### |                         [Partition]                          |     [C++](cpp/partitionArray.cpp)     |
+| ##### |                           [Median]                           |         [C++](cpp/median.cpp)         |
 
 ## 2. 链表
 
@@ -84,33 +84,45 @@
 
 ## 5. 查找和排序
 
-| Times |                            Title                             |            Solution             |
-| :---: | :----------------------------------------------------------: | :-----------------------------: |
-|  ##   |                           冒泡排序                           |  [C++](cpp/bubbleSortFlag.cpp)  |
-|  ##   |                           选择排序                           |   [C++](cpp/select_sort.cpp)    |
-|  ##   |                           插入排序                           |    [C++](cpp/insertSort.cpp)    |
-|  ##   |                           快速排序                           |    [C++](cpp/quick_sort.cpp)    |
-|  ##   |                            堆排序                            |     [C++](cpp/heapSort.cpp)     |
-|  ##   |                           归并排序                           |    [C++](cpp/merge_sort.cpp)    |
-|  ##   |                           希尔排序                           |    [C++](cpp/shellSort.cpp)     |
-|  ##   |                           计数排序                           |    [C++](cpp/countSort.cpp)     |
-|  ##   |                            桶排序                            |    [C++](cpp/bucketSort.cpp)    |
-|  ##   |                           基数排序                           |    [C++](cpp/radixSort.cpp)     |
-|  ##   |                           顺序查找                           | [C++](cpp/sequentialSearch.cpp) |
-|  ##   |                           折半查找                           |  [C++](cpp/binary_search.cpp)   |
-|  ##   |                           插值查找                           | [C++](cpp/insertionSearch.cpp)  |
-|  ##   |                         斐波那契查找                         | [C++](cpp/fibonacciSearch.cpp)  |
-|  ##   | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](cpp/findRepeatNumber.cpp) |
-|  ##   | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |   [C++](cpp/intersection.cpp)   |
-|  ##   | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |    [C++](cpp/intersect.cpp)     |
-|  ##   | [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/) |    [C++](cpp/smallestK.cpp)     |
-|  ##   | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |    [C++](cpp/KthLargest.cpp)    |
-|  ##   | [面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) |    [C++](cpp/kthToLast.cpp)     |
-|  ##   | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) |     [C++](cpp/thirdMax.cpp)     |
-|   #   | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |     [C++](cpp/kClosest.cpp)     |
-|   #   | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |  [C++](cpp/findKthLargest.cpp)  |
-|   #   | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |   [C++](cpp/topKFrequent.cpp)   |
-|   #   | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |  [C++](cpp/topKFrequent2.cpp)   |
+| Times |                            Title                             |                Solution                 |
+| :---: | :----------------------------------------------------------: | :-------------------------------------: |
+|  ##   |                           冒泡排序                           |      [C++](cpp/bubbleSortFlag.cpp)      |
+|  ##   |                           选择排序                           |       [C++](cpp/select_sort.cpp)        |
+|  ##   |                           插入排序                           |        [C++](cpp/insertSort.cpp)        |
+|  ##   |                           快速排序                           |        [C++](cpp/quick_sort.cpp)        |
+|  ##   |                            堆排序                            |         [C++](cpp/heapSort.cpp)         |
+|  ##   |                           归并排序                           |        [C++](cpp/merge_sort.cpp)        |
+|  ##   |                           希尔排序                           |        [C++](cpp/shellSort.cpp)         |
+|  ##   |                           计数排序                           |        [C++](cpp/countSort.cpp)         |
+|  ##   |                            桶排序                            |        [C++](cpp/bucketSort.cpp)        |
+|  ##   |                           基数排序                           |        [C++](cpp/radixSort.cpp)         |
+|  ##   |                           顺序查找                           |     [C++](cpp/sequentialSearch.cpp)     |
+|  ##   |                           折半查找                           |      [C++](cpp/binary_search.cpp)       |
+|  ##   |                           插值查找                           |     [C++](cpp/insertionSearch.cpp)      |
+|  ##   |                         斐波那契查找                         |     [C++](cpp/fibonacciSearch.cpp)      |
+|  ##   | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |     [C++](cpp/findRepeatNumber.cpp)     |
+|  ##   | [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |       [C++](cpp/intersection.cpp)       |
+|  ##   | [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |        [C++](cpp/intersect.cpp)         |
+|  ##   | [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/) |        [C++](cpp/smallestK.cpp)         |
+|  ##   | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |        [C++](cpp/KthLargest.cpp)        |
+|  ##   | [面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) |        [C++](cpp/kthToLast.cpp)         |
+|  ##   | [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) |         [C++](cpp/thirdMax.cpp)         |
+|   #   | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |         [C++](cpp/kClosest.cpp)         |
+|   #   | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |      [C++](cpp/findKthLargest.cpp)      |
+|   #   | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |       [C++](cpp/topKFrequent.cpp)       |
+|   #   | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |      [C++](cpp/topKFrequent2.cpp)       |
+|   #   | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) |     [C++](cpp/findPeakElement.cpp)      |
+|   #   | [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | [C++](cpp/peakIndexInMountainArray.cpp) |
+|   #   | [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |          [C++](cpp/search.cpp)          |
+|   #   | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) |         [C++](cpp/search2.cpp)          |
+|   #   | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) |         [C++](cpp/findMin.cpp)          |
+|   #   | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) |       [C++](cpp/searchMatrix.cpp)       |
+|   #   | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) |      [C++](cpp/searchMatrix2.cpp)       |
+|   #   |  [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)   |          [C++](cpp/mySqrt.cpp)          |
+|   #   | [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) |       [C++](cpp/guessNumber.cpp)        |
+|   #   | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) |       [C++](cpp/searchInsert.cpp)       |
+|   #   | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |       [C++](cpp/searchRange.cpp)        |
+|   #   | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) |     [C++](cpp/firstBadVersion.cpp)      |
 
 ## 6. 动态规划和递归
 
