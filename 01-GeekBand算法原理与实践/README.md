@@ -131,6 +131,16 @@
 |   #   | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |     [C++](cpp/fib.cpp)     |
 |   #   | [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [C++](cpp/tribonacci.cpp)  |
 |   #   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](cpp/climbStairs.cpp) |
+|   #   | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |  [C++](cpp/wordBreak.cpp)  |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
 
 ## 7. 图与搜索
 
