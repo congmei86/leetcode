@@ -126,11 +126,11 @@
 
 ## 6. 动态规划和递归
 
-| Times | Title |  Solution   |
-| :---: | :---: | :---------: |
-|   #   |       | [C++](cpp/) |
-|   #   |       | [C++](cpp/) |
-|   #   |       | [C++](cpp/) |
+| Times |                            Title                             |          Solution          |
+| :---: | :----------------------------------------------------------: | :------------------------: |
+|   #   | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |     [C++](cpp/fib.cpp)     |
+|   #   | [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [C++](cpp/tribonacci.cpp)  |
+|   #   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](cpp/climbStairs.cpp) |
 
 ## 7. 图与搜索
 
