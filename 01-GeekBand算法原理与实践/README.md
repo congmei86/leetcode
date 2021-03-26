@@ -56,17 +56,17 @@
 
 | Times |                            Title                             |               Solution               |
 | :---: | :----------------------------------------------------------: | :----------------------------------: |
-| ####  | [144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) |   [C++](cpp/preorderTraversal.cpp)   |
-| ####  | [94.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) |   [C++](cpp/inorderTraversal.cpp)    |
-| ####  | [145.二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |  [C++](cpp/postorderTraversal.cpp)   |
-| ####  | [102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |      [C++](cpp/levelOrder.cpp)       |
-| ####  | [107.二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) |   [C++](cpp/levelOrderBottom.cpp)    |
-| ####  | [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |      [C++](cpp/isBalanced.cpp)       |
-| ####  | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) |      [C++](cpp/isValidBST.cpp)       |
-| ####  | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |       [C++](cpp/isSubtree.cpp)       |
-| ####  | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |    [C++](cpp/isSubStructure.cpp)     |
-| ####  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |       [C++](cpp/maxDepth.cpp)        |
-| ####  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) |       [C++](cpp/minDepth.cpp)        |
+| ##### | [144.二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) |   [C++](cpp/preorderTraversal.cpp)   |
+| ##### | [94.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) |   [C++](cpp/inorderTraversal.cpp)    |
+| ##### | [145.二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |  [C++](cpp/postorderTraversal.cpp)   |
+| ##### | [102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |      [C++](cpp/levelOrder.cpp)       |
+| ##### | [107.二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) |   [C++](cpp/levelOrderBottom.cpp)    |
+| ##### | [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |      [C++](cpp/isBalanced.cpp)       |
+| ##### | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) |      [C++](cpp/isValidBST.cpp)       |
+| ##### | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |       [C++](cpp/isSubtree.cpp)       |
+| ##### | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |    [C++](cpp/isSubStructure.cpp)     |
+| ##### | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |       [C++](cpp/maxDepth.cpp)        |
+| ##### | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) |       [C++](cpp/minDepth.cpp)        |
 |  ##   | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |    [C++](cpp/binaryTreePaths.cpp)    |
 |  ##   | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  |      [C++](cpp/hasPathSum.cpp)       |
 |  ##   | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) |        [C++](cpp/pathSum.cpp)        |
@@ -131,6 +131,16 @@
 |   #   | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |     [C++](cpp/fib.cpp)     |
 |   #   | [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | [C++](cpp/tribonacci.cpp)  |
 |   #   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](cpp/climbStairs.cpp) |
+|   #   | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |  [C++](cpp/wordBreak.cpp)  |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
+|       |                                                              |                            |
 
 ## 7. 图与搜索
 
