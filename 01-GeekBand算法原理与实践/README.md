@@ -67,20 +67,20 @@
 | ##### | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |    [C++](cpp/isSubStructure.cpp)     |
 | ##### | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |       [C++](cpp/maxDepth.cpp)        |
 | ##### | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) |       [C++](cpp/minDepth.cpp)        |
-|  ##   | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |    [C++](cpp/binaryTreePaths.cpp)    |
-|  ##   | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  |      [C++](cpp/hasPathSum.cpp)       |
-|  ##   | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) |        [C++](cpp/pathSum.cpp)        |
-|  ##   | [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) |       [C++](cpp/pathSum3.cpp)        |
-|  ##   | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |   [C++](cpp/sortedArrayToBST.cpp)    |
-|  ##   | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) |    [C++](cpp/sortedListToBST.cpp)    |
-|  ##   | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |       [C++](cpp/buildTree.cpp)       |
-|  ##   | [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |      [C++](cpp/buildTree2.cpp)       |
-|  ##   | [面试题 04.06. 后继者](https://leetcode-cn.com/problems/successor-lcci/) |   [C++](cpp/inorderSuccessor.cpp)    |
-|  ##   | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](cpp/lowestCommonAncestor.cpp)  |
-|  ##   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](cpp/lowestCommonAncestor2.cpp) |
-|  ##   | [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) |      [C++](cpp/rangeSumBST.cpp)      |
-|  ##   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |      [C++](cpp/isSymmetric.cpp)      |
-|  ##   | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) |      [C++](cpp/invertTree.cpp)       |
+|  ###  | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |    [C++](cpp/binaryTreePaths.cpp)    |
+|  ###  | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  |      [C++](cpp/hasPathSum.cpp)       |
+|  ###  | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) |        [C++](cpp/pathSum.cpp)        |
+|  ###  | [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) |       [C++](cpp/pathSum3.cpp)        |
+|  ###  | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |   [C++](cpp/sortedArrayToBST.cpp)    |
+|  ###  | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) |    [C++](cpp/sortedListToBST.cpp)    |
+|  ###  | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |       [C++](cpp/buildTree.cpp)       |
+|  ###  | [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |      [C++](cpp/buildTree2.cpp)       |
+|  ###  | [面试题 04.06. 后继者](https://leetcode-cn.com/problems/successor-lcci/) |   [C++](cpp/inorderSuccessor.cpp)    |
+|  ###  | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](cpp/lowestCommonAncestor.cpp)  |
+|  ###  | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](cpp/lowestCommonAncestor2.cpp) |
+|  ###  | [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) |      [C++](cpp/rangeSumBST.cpp)      |
+|  ###  | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |      [C++](cpp/isSymmetric.cpp)      |
+|  ###  | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) |      [C++](cpp/invertTree.cpp)       |
 
 ## 5. 查找和排序
 
